@@ -5,7 +5,7 @@ Users can browse, search, filter, favorite, and save quotes — with state persi
 
 🌐 Live Demo
 
-https://quotes-app-ruddy.vercel.app
+[https://quotes-app-ruddy.vercel.app](https://quotes-app-orcin.vercel.app/)
 
 ✨ Features
 
